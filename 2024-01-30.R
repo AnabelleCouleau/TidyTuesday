@@ -1,4 +1,3 @@
-#setwd("/Users/couleauanabelle/Library/CloudStorage/Dropbox/Folders/10_DATA_ANALYST/Portfolio/data_viz/TidyTuesday/2024/2024-01-30/")
 
 # Load packages -----------------------------------------------------------
 
