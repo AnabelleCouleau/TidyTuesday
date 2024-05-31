@@ -1,9 +1,9 @@
-Here, you can find a couple of my TidyTuesday participation for 2024: 
+Here, you can find a couple of my TidyTuesday participations for 2024: 
 
 1. Over the last twenty years, CO2 emissions from nation-states have surpassed those from state-owned entities and private companies. 
 I revisited #TidyTuesday  week 21 – Carbon Majors Emissions inspired by 
-@joseph_barbier. Includes key timeline dates to represent carbon emissions 1928-2022. 
-Color palette: used separated colors from Grand Budapest Wes Anderson palette.
+[@joseph_barbier](https://twitter.com/joseph_barbier). Includes key timeline dates to represent carbon emissions 1928-2022. 
+Color palette: used separated colors from Grand Budapest Wes Anderson palette. Data: [Carbon Majors](https://carbonmajors.org/)
 
 <img src="https://github.com/AnabelleCouleau/TidyTuesday/blob/main/2024-05-21_carbon_emissions_r.gif" alt="image" width="50%" height="auto">
 
