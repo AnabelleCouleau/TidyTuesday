@@ -1,15 +1,14 @@
-Over the last twenty years, CO2 emissions from nation-states have surpassed those from state-owned entities and private companies. 
-I revisited #TidyTuesday  week 21 – Carbon Majors Emissions inspired by 
-@joseph_barbier
- + key timeline dates to represent carbon emissions 1928-2022
-   
-<img src="https://github.com/AnabelleCouleau/TidyTuesday/blob/main/2024-05-21_carbon_emissions_r.gif" alt="image" width="50%" height="auto">
+Here, you can find a couple of my TidyTuesday participation for 2024: 
 
+1. Over the last twenty years, CO2 emissions from nation-states have surpassed those from state-owned entities and private companies. 
+I revisited #TidyTuesday  week 21 – Carbon Majors Emissions inspired by 
+@joseph_barbier. Includes key timeline dates to represent carbon emissions 1928-2022. 
 Color palette: used separated colors from Grand Budapest Wes Anderson palette.
 
+<img src="https://github.com/AnabelleCouleau/TidyTuesday/blob/main/2024-05-21_carbon_emissions_r.gif" alt="image" width="50%" height="auto">
 
 
-My first #TidyTuesday visualisation on Groundhog Day Predictions for week 4. 
+2. My first #TidyTuesday visualisation on Groundhog Day Predictions for week 4. 
 I decided to show the substantial increases in prediction count after the famous movie « Groundhog Day » (1993).
 The city Punxsutawney, Pennsylvania was famous for its celebration of Groundhog days but it gained national attention over time.
 
