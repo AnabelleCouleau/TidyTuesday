@@ -1,3 +1,11 @@
+Over the last twenty years, CO2 emissions from nation-states have surpassed those from state-owned entities and private companies. 
+I revisited #TidyTuesday  week 21 – Carbon Majors Emissions inspired by 
+@joseph_barbier
+ + key timeline dates to represent carbon emissions 1928-2022
+   
+<img src="https://github.com/AnabelleCouleau/TidyTuesday/blob/main/2024-05-21_carbon_emissions_r.gif" alt="image" width="50%" height="auto">
+
+Color palette: used separated colors from Grand Budapest Wes Anderson palette.
 
 
 
